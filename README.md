@@ -17,3 +17,4 @@
   <img alt="Rajesh's StackOverflow" width="22px" src="https://camo.githubusercontent.com/65af9fc470293401135dba50a1fdd821be90cfc3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f737461636b6f766572666c6f772e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" style="max-width:100%;">
 </a> &nbsp;
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="rajesh-mishra" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajesh-mishra?trk=profile-badge">Rajesh Mishra</a></div>
