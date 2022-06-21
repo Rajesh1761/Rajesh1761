@@ -18,3 +18,30 @@
 </a> &nbsp;
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="rajesh-mishra" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajesh-mishra?trk=profile-badge">Rajesh Mishra</a></div>
+
+<br/>
+
+<b>Tech Stack</b>
+
+  <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" style="max-width:100%;"/>
+    <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" style="max-width:100%;"/>
+     <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" style="max-width:100%;"/>
+          <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg" style="max-width:100%;"/>
+     
+    
+  
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+
+<br>
+<br/>
+<br>
+
+
+![Rajesh's github stats](https://github-readme-stats.vercel.app/api?username=Rajesh1761&count_private=true&theme=cobalt&show_icons=true)
