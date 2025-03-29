@@ -1,9 +1,10 @@
-### Hi everyone, I'm Rajesh Mishra! 👋
+# Hi 👋, I'm Rajesh Mishra
 
+# 💫 About Me: 
 #### Software development is my profession.
 
 - 🔭 I’m currently working as full stack java developer.
-- 🌱 I’m currently learning some of new Technologies (AWS, ReactJS and Microservices).
+- 🌱 I’m currently learning some of new Technologies (AI/ML Data Lineage).
 - 💬 Ask me about Java, Spring boot, React, Devops tech related stuff.
 
 # Connect with me
@@ -27,8 +28,6 @@
     <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" style="max-width:100%;"/>
      <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" style="max-width:100%;"/>
           <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg" style="max-width:100%;"/>
-     
-    
   
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
