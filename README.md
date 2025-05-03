@@ -44,4 +44,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh1761&layout=compact)
-![Rajesh's github stats](https://github-readme-stats.vercel.app/api?username=Rajesh1761&count_private=true&theme=gruvbox&show_icons=true)
