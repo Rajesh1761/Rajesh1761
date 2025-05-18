@@ -1,5 +1,6 @@
 # Hi 👋, I'm Rajesh Mishra
-
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=cc0000&lines=I'm+a+Full+Stack+Java+Developer)
+<img align="right" alt="Visit Count" src="https://profile-counter.glitch.me/Rajesh1761/count.svg?"  />
 ## 💫 About Me
 I am a passionate software developer with expertise in full-stack development and cloud technologies.
 
@@ -98,5 +99,12 @@ I am a passionate software developer with expertise in full-stack development an
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh1761&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajesh1761&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=Gaurav%20Dubey's%20Stats" height="139" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rajesh1761&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" height="139" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajesh1761&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2"
+height="139" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajesh1761&radius=16&theme=react&area=true&order=5&bg_color=#000&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Rajesh1761&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
