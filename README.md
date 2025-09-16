@@ -1,12 +1,11 @@
 # Hi 👋, I'm Rajesh Mishra
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=cc0000&lines=I'm+a+Full+Stack+Java+Developer)
-<img align="right" alt="Visit Count" src="https://profile-counter.glitch.me/Rajesh1761/count.svg?"  />
 ## 💫 About Me
 I am a passionate software developer with expertise in full-stack development and cloud technologies.
 
-- 🔭 **Current Role:** Full Stack Java Developer
+- 🔭 **Current Role:** Java Full Stack Software Engineer
 - 🌱 **Learning:** Exploring emerging technologies like Artificial Intelligence (AI), Machine Learning (ML), and Data Lineage.
-- 💬 **Ask Me About:** Java, Spring Boot, AWS, React, and DevOps technologies.
+- 💬 **Ask Me About:** Java, Spring Boot, AWS, React, PySpark, Python and DevOps technologies.
 
 ---
 
